@@ -1,0 +1,5 @@
+smartapi-python
+pandas
+pyotp
+logzero
+websocket-client

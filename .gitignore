@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+.env
+tokens.json
+data/
+logs/
+error_reports/
+backtest_reports/
+__pycache__/
+*.pyc
+venv/

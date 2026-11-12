@@ -1,0 +1,15 @@
+{
+    "credentials": {
+        "api_key": "hMZFditq",
+        "client_code": "DDVU070",
+        "secret_key": "70954473-97c1-4cb4-abf7-e45f0cad55d0",
+        "mpin": "2204"
+    },
+    "capital_allocation_percent": 0.10,
+    "risk_management": {
+        "stoploss": {
+            "FNO": 0.10,
+            "EQUITY_INTRADAY": 0.02
+        }
+    }
+}
